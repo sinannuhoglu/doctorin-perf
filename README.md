@@ -1,7 +1,7 @@
 
 # Doctorin Performans Testi (Locust)
 
-Bu depo, **Doctorin** platformu için **Locust** kullanılarak hazırlanmış, senaryolaştırılabilir ve **SLA doğrulamalı** bir performans testi iskeletidir.
+Bu depo, **Doctorin** platformu için **Locust** kullanılarak hazırlanmış, senaryolaştırılabilir ve **SLA doğrulamalı** bir performans testidir.
 
  ### **Öne çıkanlar**
  - Tek komutla headless koşum (`run_locust.py`)

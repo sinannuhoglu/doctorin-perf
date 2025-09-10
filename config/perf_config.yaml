@@ -1,0 +1,13 @@
+host: "https://testapp.doctorin.app"
+
+urls:
+  dashboard: "/"
+  appointments_list: "/appointment-service/appointments"
+
+runtime:
+  min_wait_ms: 500
+  max_wait_ms: 1500
+
+sla_ms:
+  "GET /": 2000
+  "GET /appointment-service/appointments": 1500
